@@ -22,7 +22,7 @@ class LoginForm extends Component {
 
         <CardSection>
           <Input
-            secureTextEntry="password"
+            secureTextEntry
             placeholder="password"
             label="Password"
             value={this.state.password}
