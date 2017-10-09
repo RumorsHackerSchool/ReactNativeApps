@@ -10,12 +10,10 @@ class LoginForm extends Component {
       <Card>
         <CardSection>
           <Input
-           value={this.state.text}
-           onChangeText={text => this.setState({ text })}
+            value={this.state.text}
+            onChangeText={text => this.setState({ test })}
           />
         </CardSection>
-
-
 
         <CardSection />
 
