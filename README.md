@@ -2,8 +2,11 @@
 react native testing apps for learning purposes 
 __________________________________________________
 
-This project is for learning purposes about React Native
+This projects is for learning purposes about React Native
 opend by Guy Zwerdling
+
+commands:
+git clone 
 
 
 Guy Zwerdling - testing projects:
