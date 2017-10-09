@@ -5,8 +5,8 @@ __________________________________________________
 This projects is for learning purposes about React Native
 opend by Guy Zwerdling
 
-commands: /n
-git clone https://github.com/RumorsHackerSchool/ReactNativeApps.git /n
+commands: <br />
+git clone https://github.com/RumorsHackerSchool/ReactNativeApps.git
 
 
 
