@@ -7,7 +7,7 @@ opend by Guy Zwerdling
 
 commands: <br />
 git clone https://github.com/RumorsHackerSchool/ReactNativeApps.git <br/>
-cd ReactNativeApps/<app> <br>
+cd ReactNativeApps/\<app\> <br>
 react-native start
 <br/>
 <br/>
