@@ -6,9 +6,13 @@ This projects is for learning purposes about React Native
 opend by Guy Zwerdling
 
 commands: <br />
-git clone https://github.com/RumorsHackerSchool/ReactNativeApps.git
-
-
+git clone https://github.com/RumorsHackerSchool/ReactNativeApps.git <br/>
+cd ReactNativeApps/<app> <br>
+react-native start
+<br/>
+<br/>
+on other terminal in the same location: <br/>
+react-native run-android
 
 Guy Zwerdling - testing projects:
 -----------------------------------------
