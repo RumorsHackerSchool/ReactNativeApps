@@ -22,3 +22,4 @@ Auth - this app is login section for users using firebase. I setup meny componen
 const { inputStyle, labelStyle, containerStyle } = styles;<br>
 and on every TAG I specified only the style name<br>
 style={containerStyle}<br>
+![alt text](https://github.com/RumorsHackerSchool/ReactNativeApps/blob/master/img/ezgif-4-49d35d01c8.gif)
