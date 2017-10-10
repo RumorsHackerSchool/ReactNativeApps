@@ -21,7 +21,6 @@ Albums - this app show some albums of Tylor Swift, in this app I am using JSON (
 <br>
 <br>
 <br>
-__________________________________________________
 <br>
 <br>
 <br>
