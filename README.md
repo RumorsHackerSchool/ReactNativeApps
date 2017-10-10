@@ -16,7 +16,10 @@ react-native run-android
 
 Guy Zwerdling - testing projects:
 -----------------------------------------
-Albums - this app show some albums of Tylor Swift, in this app I am using JSON (using https) to collect the data about the albums and display them to the users. There is also a button to buy the album which is a link to amazon store.
+Albums - this app show some albums of Tylor Swift, in this app I am using JSON (using https) to collect the data about the albums and display them to the users. There is also a button to buy the album which is a link to amazon store.<br>
+![alt text](https://github.com/RumorsHackerSchool/ReactNativeApps/blob/master/img/ezgif-4-0d3a6f56ab.gif)
+
+
 
 Auth - this app is login section for users using firebase. I setup meny component for flexible using, I also const with style properties, if we setup the style for every TAG we need to write style={styles.styleName}, in my case my component was full in style const so I setup as follow:<br>
 const { inputStyle, labelStyle, containerStyle } = styles;<br>
