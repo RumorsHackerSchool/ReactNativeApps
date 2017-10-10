@@ -21,6 +21,10 @@ Albums - this app show some albums of Tylor Swift, in this app I am using JSON (
 <br>
 <br>
 <br>
+__________________________________________________
+<br>
+<br>
+<br>
 Auth - this app is login section for users using firebase. I setup meny component for flexible using, I also const with style properties, if we setup the style for every TAG we need to write style={styles.styleName}, in my case my component was full in style const so I setup as follow:<br>
 const { inputStyle, labelStyle, containerStyle } = styles;<br>
 and on every TAG I specified only the style name<br>
