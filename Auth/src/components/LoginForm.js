@@ -25,7 +25,7 @@ class LoginForm extends Component {
           .then(this.onLoginSuccess.bind(this))
           .catch(() => {
             this.setState({ error: 'Authentication Failed.' });
-          })
+          });
       })
   }
 
