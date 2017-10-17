@@ -1,4 +1,6 @@
 import { AppRegistry } from 'react-native';
-import App from './src/app';
+import App from './src/App';
 
-AppRegistry.registerComponent('tech_stack', () => App);
+export default App;
+
+AppRegistry.registerComponent('TechStack', () => App);
