@@ -40,7 +40,7 @@ componentDidMount(){
 };
 
 saveData(){
-  AsyncStorage.setItem(this.state);
+  AsyncStorage.setItem("values",this.state);
 };
 
 state = {
